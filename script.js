@@ -1,3 +1,9 @@
+// alert
+function main_load(){
+  swal("This Webpage is not made for commercila purpose, it was given as a task and hence we have used it only for educational puropose");  
+}
+
+
 // navbar js
 
 var CheckBox = document.getElementById("check");
